@@ -1,0 +1,9 @@
+D:\testKTPM2\WindowsFormsApplication1\Tinh_cong_tru+2so\bin\Debug\Tinh_cong_tru+2so.exe.config
+D:\testKTPM2\WindowsFormsApplication1\Tinh_cong_tru+2so\bin\Debug\Tinh_cong_tru+2so.exe
+D:\testKTPM2\WindowsFormsApplication1\Tinh_cong_tru+2so\bin\Debug\Tinh_cong_tru+2so.pdb
+D:\testKTPM2\WindowsFormsApplication1\Tinh_cong_tru+2so\obj\Debug\CongTru2So.csprojResolveAssemblyReference.cache
+D:\testKTPM2\WindowsFormsApplication1\Tinh_cong_tru+2so\obj\Debug\Tinh_cong_tru_2so.Form1.resources
+D:\testKTPM2\WindowsFormsApplication1\Tinh_cong_tru+2so\obj\Debug\Tinh_cong_tru_2so.Properties.Resources.resources
+D:\testKTPM2\WindowsFormsApplication1\Tinh_cong_tru+2so\obj\Debug\CongTru2So.csproj.GenerateResource.Cache
+D:\testKTPM2\WindowsFormsApplication1\Tinh_cong_tru+2so\obj\Debug\Tinh_cong_tru+2so.exe
+D:\testKTPM2\WindowsFormsApplication1\Tinh_cong_tru+2so\obj\Debug\Tinh_cong_tru+2so.pdb
