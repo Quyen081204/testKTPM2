@@ -16,5 +16,18 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
+
+        int a, b;
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            a = int.Parse(textBox1.Text);
+            b = int.Parse(textBox2.Text);
+            MessageBox.Show($"a + b = {a + b}");
+        }
+
+       
+
+
     }
 }
