@@ -19,6 +19,11 @@ namespace WindowsFormsApplication1
 
         int a, b;
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("KEKEKEK atw");
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             a = int.Parse(textBox1.Text);
